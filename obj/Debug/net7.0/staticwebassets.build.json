@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Pi2RSqmGpjUzMpcfXDwirNNtmG1v9zzDuyYcVISXrWA=",
+  "Source": "FarmersMarketRESTAPI",
+  "BasePath": "_content/FarmersMarketRESTAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
